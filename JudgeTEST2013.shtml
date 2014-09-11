@@ -1,0 +1,424 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/HRCPageTemplate.dwt" codeOutsideHTMLIsLocked="false" -->
+<!--Modified by S. Weick December 2012 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Welcome to Hunting Retriever Club, Inc.</title>
+<style type="text/css">
+.bold {
+	font-weight: bold;
+}
+</style>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #6F0202;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+#apDiv1 {
+	position: absolute;
+	width: 764px;
+	height: 290px;
+	z-index: 1;
+	left: 429px;
+	top: 87px;
+}
+#BlackBackground {
+	background-image: url(images/menubarback_black.gif);
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="JudgeTESTScriptJQuery.js"></script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#FCCC9E"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="148" align="center" valign="top" id="masthead_table_redandblack"><!--#include file="menubar.shtml" --></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="0" align="center" valign="top" bgcolor="#FCCC9E"><table width="1153" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="22" height="225">&nbsp;</td>
+        <td width="283" align="center" valign="top" bgcolor="#E3B382"><script language="JavaScript" type="text/javascript"> 
+<!-- 
+var 
+month = new Array(); 
+month[0]="January"; 
+month[1]="February"; 
+month[2]="March"; 
+month[3]="April"; 
+month[4]="May"; 
+month[5]="June"; 
+month[6]="July"; 
+month[7]="August"; 
+month[8]="September"; 
+month[9]="October"; 
+month[10]="November"; 
+month[11]="December"; 
+var 
+day = new Array(); 
+day[0]="Sunday"; 
+day[1]="Monday"; 
+day[2]="Tuesday"; 
+day[3]="Wednesday"; 
+day[4]="Thursday"; 
+day[5]="Friday"; 
+day[6]="Saturday"; 
+today = new Date(); 
+date = today.getDate(); 
+day = (day[today.getDay()]); 
+month = (month[today.getMonth()]); 
+year = (today.getFullYear()); 
+suffix = (date==1 || date==21 || date==31) ? "st" : "th" && 
+(date==2 || date==22) ? "nd" : "th" && (date==3 || date==23) ? "rd" : "th" 
+function print_date() 
+{ 
+document.write(day + "," + "&nbsp;" + date + "<sup>" + suffix + "</sup>" + "&nbsp;" +
+ month + "," + "&nbsp;" + year); 
+} 
+// --> 
+</script> 
+<script type="text/javascript"> 
+<!-- 
+print_date(); 
+//--> 
+</script>
+<br />
+<br />
+<!--#include file="sidebar.shtml" --></td>
+        <td width="28" align="left" valign="top">&nbsp;</td>
+        <td width="817" align="left" valign="top"><!-- InstanceBeginEditable name="Main Body" -->
+<h1><strong>HRC 2013/2014 Judges Test On-line...</strong></h1>
+<hr width="100%" />
+<p>The 2013-2014 HRC Judges Test can be taken by completing   the form below and hitting the submit button.  It is strongly suggested that you   first print out a copy of the test and use the Rulebook to carefully choose your   answers.  You can then come back to this form and complete it.</p>
+<p><strong>Please read   the following Notes and Instructions carefully before beginning the 2013/2014   Judges test. </strong></p>
+<p><strong>Note: </strong> <strong>All </strong>HRC Judges are   required to take a Rulebook Test <span class="bold">every two (2) years</span> in order to maintain their   Judges License status.  The purpose of   the Judges test is to require those involved in the Judging of HRC Tests to   periodically read the entire rulebook and become familiar with new Running Rules   changes. Test must be taken by May 1, 2013, which gived you 5 months to take it.</p>
+<p> <strong>Instructions: </strong>This is an open-book test based on   the 2013/2014 HRC Rulebook.  You may   consult with your Field Representative or another Judge if you are unsure of any   question.  However, the completion of the   test is to be by you and is based on your honor. <strong><em> </em></strong></p>
+<p><strong><em>RESULTS WILL BE   IMMEDIATELY GIVEN AFTER YOU SUBMIT BY TELLING YOU THAT YOU PASSED OR FAILED. KEEP THAT PAGE FOR YOUR RECORDS. THIS IS AN AUTOMATED TEST AND RESULTS ARE SENT TO HRC WITH THE OUTCOME OF THE TEST.</em></strong></p>
+<p><em><strong>Here is the test in a PDF for those who want to print the test out.  </strong></em><em><strong><a href="PDF/2013 Judges Test for Web.pdf">2013 Judges Test</a></strong></em></p>
+<p><strong> You must answer a minimum   of 15 questions correctly to obtain a passing &lsquo;C&rsquo; grade.  If you fail the test, it will be noted in   your Judge Record and you will be allowed to retake the test.  If you fail a second time, you will be   required to wait 30 days and your License will be placed on &lsquo;hold&rsquo; status until   the test is completed with a passing grade. </strong></p>
+
+<form id="frmContact" action="JudgeTESTgradeDecember2012.php" method="post"> 
+ <!-- <input type="hidden" name="subject" value="Judges Online Test" /> -->
+ <!-- <input type="hidden" name="redirect" value="thankyou.shtml" /> -->
+  <!--webbot  bot="SaveResults" endspan i-checksum="43374" -->  
+
+<blockquote>
+  <table>
+      <tbody>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Name</strong></em></td>
+          <td><input name="FullName" id="FullName" size="35" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>HRC Membership #</strong></em></td>
+          <td><input name="HRC_Member_Number" id="HRC_Member_Number" size="35" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Home HRC Club </strong></em></td>
+          <td><input name="HomeClub" id="HomeClub" size="35" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Street Address</strong></em></td>
+          <td><input name="StreetAddress" id="StreetAddress" size="35" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><strong>Address (cont.)</strong></em></td>
+          <td><input name="Address2" id="Address2" size="35" /></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>City</strong></em></td>
+          <td><input name="City" id="City" size="35" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>State/Province</strong></em></td>
+          <td><input name="State" id="State" size="25" class="reqd" /></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Zip/Postal Code</strong></em></td>
+          <td><input name="ZipCode" id="ZipCode" size="12" maxlength="12" class="reqd" /></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Country</strong></em></td>
+          <td><input name="Country" id="Country" size="25" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Home Phone</strong></em></td>
+          <td><input name="HomePhone" id="HomePhone" size="25" maxlength="25" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>E-mail</strong></em></td>
+          <td><input name="Email" id="Email" size="35" class="reqd"/></td>
+        </tr>
+        <tr>
+          <td align="right"><em><span><font color="#FF0000">*</font></span>
+			<strong>Required: Confirm   E-mail</strong></em></td>
+          <td><input name="Email2" id="Email2" size="35" class="reqd"/></td>
+        </tr>
+      </tbody>
+    </table>
+</blockquote>
+<blockquote>
+    <p><strong><em>(Please   select your answers carefully and check the entire document before you submit   the test)</em></strong></p>
+</blockquote>
+  <p>1.    The Started Retriever must deliver to hand? </p>
+  <blockquote>
+    <p>
+      <select name="1" size="1" id="Q1">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p align="left">2.  Which of the following statements are FALSE.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;A. A judge should not only pass judgement, but also use good judgement.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;B. Judges should agree,prior to the hunt, what they consider to be major or minor faults of a dog's performance.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;C. Judges should ask a handler to pick up thier dog if that dog has, in the Judges' mind, already failed and is creating bad habits or endangering itself.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;D. Judges are to keep the judges sheets for (6) months following the hunt.</p>
+  <blockquote>
+    <p>
+    <select name="2" id="Q2">
+      <option selected="selected" value="A">A</option>
+      <option value="B">C &amp; D</option>
+      <option value="C">D</option>
+      <option value="D">All of the above</option>
+    </select>
+	</p>
+  </blockquote>
+  <br />
+  <p>3.  At the retrieving line, the Finished dog may be touched to steady, but when the Handler signals &quot;ready&quot;, it may not be touched again. </p>
+  <blockquote>
+    <p>
+      <select name="3" size="1" id="Q3">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>4. In the Upland test a mark down should occur and the test may be failed if the dog is directed by the Handler for every change of direction and to every patch of cover.</p>
+  <blockquote>
+    <p>
+      <select name="4" id="Q4">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B. False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>5.  According to the HRC Rulebook, an acceptable attention-getting device at the Started Level would be a bird boy yelling &quot;hey, hey, hey&quot; at the dog just prior to the throw.</p>
+  <blockquote>
+    <p>
+      <select name="5" id="Q5">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B. False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>6.  At the Judges' discretion, the Seasoned Hunting Retriever may be brought to the retrieving line off lead.</p>
+  <blockquote>
+    <p>
+      <select name="6" id="Q6">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>7.   At the Judges' discretion, the Finished Hunting Retriever may be required to make retrieves in an established sequence.</p>
+  <blockquote>
+    <p>
+      <select name="7" id="Q7">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>8.     During the Upland test it is necessary for the dog to sit when the bird is flushed or released.</p>
+  <blockquote>
+    <p>
+      <select name="8" size="1" id="Q8">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>9.     Test dogs should be at the same level as the test, but may be at a single level higher than the test, provided they are not titled at a higher level than the test.</p>
+  <blockquote>
+    <p>
+      <select name="9" id="Q9">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>10.  Under Started Test rules, on consecutive singles from the same retrieving line, the line to the falls should not be less than 90 degrees.</p>
+  <blockquote>
+    <p>
+      <select name="10" size="1" id="Q10">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>11.  According to the HRC Rulebook, the Judges' main concern in setting up the most realistic test for the dog and Handler should be:</p>
+  <blockquote>
+    <p>
+      <select name="11" size="1" id="Q11">
+        <option  selected="selected" value="A">A.  Realism</option>
+        <option value="B">B.  Safety</option>
+        <option value="C">C.  Bird Quality</option>
+        <option value="D">D.  Hunt Test Rules & Guidelines</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>12.   The Started Hunting Retriever can be cast from the retrieving line a maximum of two (2) times.</p>
+  <blockquote>
+    <p>
+      <select name="12" id="Q12">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B. False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>13.  The Upland hunt test will be conducted according to the rules already established for the ________ Hunting retriever.</p>
+  <blockquote>
+    <p>
+      <select name="13" size="1" id="Q13">
+        <option selected="selected" value="A">A.  Started</option>
+        <option value="B">B.  Seasoned</option>
+        <option value="C">C.  Finished</option>
+        <option value="D">D.  Grand</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>14.   If the Started Handler opts to shoot the shotgun, the dog can be restrained.</p>
+  <blockquote>
+    <p>
+      <select name="14" size="1" id="Q14">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+    </p>
+  </blockquote>
+  <p>15.   The Upland Handler should bring the retriever to and from the retrieving line on lead.</p>
+  <blockquote>
+    <p>
+      <select name="15" size="1" id="Q15">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>16.   There is a collective limit of eight (8) dogs per Handler, per hunt.</p>
+  <blockquote>
+    <p>
+      <select name="16" size="1" id="Q16">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>17.  This test should duplicate actual hunting conditions found throughout the country.</p>
+  <blockquote>
+    <p>
+      <select name="17" size="1" id="Q17">
+        <option selected="selected" value="A">A. Started</option>
+        <option value="B">B.  Seasoned</option>
+		<option value="C">C.  Finished</option>
+		<option value="D">D.  All of the above</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>18.  The Seasoned diversion can be thrown when the dog is returning from any retrieve.</p>
+  <blockquote>
+    <p>
+      <select name="18" size="1" id="Q18">
+        <option selected="selected" value="A">A.True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>19. In the Started Hunt - The maximum land distance will not exceed 100 yards, but may be less.</p>
+  <blockquote>
+    <p>
+      <select name="19" size="1" id="Q19">
+        <option selected="selected" value="A">A.True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p>20.  Seasoned Handlers should be given all poppers necessary to complete all given segmants of the test.</p>
+  <blockquote>
+    <p>
+      <select name="20" size="1" id="Q20">
+        <option selected="selected" value="A">A. True</option>
+        <option value="B">B.   False</option>
+      </select>
+      <br />
+    </p>
+  </blockquote>
+  <p><br />
+    </p>
+  <blockquote>&nbsp;  </blockquote>
+  <input name="Submit" type="submit"  value="Submit Form" />
+  <input value="Reset Form" type="reset" />
+  <strong> (do not hit the &quot;Submit Form&quot; button until you are sure you want   the form sent! Only Submit ONE time.)</strong>
+  <hr width="100%" />
+</form>
+<h5>Judges Test On-line<br />
+  Copyright © 2011  HRC, Inc.. All rights reserved. <br />
+  Revised:
+  <!--WEBBOT bot=TimeStamp      S-Type="EDITED"      S-Format="%B %d, %Y" startspan  -->
+  January   1, 2013</h5>
+<!-- InstanceEndEditable --></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="3" bgcolor="#000000" id="BlackBackground">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="3" align="center" bgcolor="#6F0202"><!--#include file="bottomfeeder.shtml" --></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
